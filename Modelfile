@@ -1,0 +1,2 @@
+FROM llama3.2:1b
+ADAPTER /Users/udaychandrabhookya/Work/Projects/Gen AI Learning/gen_ai_learning_notebooks/finetuning_llm/complete_checkpoint

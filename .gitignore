@@ -1,0 +1,9 @@
+local_checkpoints
+final_model
+complete_checkpoint
+build/
+dist/
+wheels/
+meta-llama/
+workspace/
+__pycache__/
