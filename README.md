@@ -73,18 +73,3 @@ ADAPTER /Users/udaychandrabhookya/Work/Projects/Gen AI Learning/gen_ai_learning_
 
 This configuration applies the saved LoRA adapter (`complete_checkpoint`) on top of the base `llama3.2:1b` model.
 
-### Clean-up
-
-The `.gitignore` file specifies local directories that should be excluded from version control:
-
-```
-local_checkpoints
-final_model
-complete_checkpoint
-build/
-dist/
-wheels/
-meta-llama/
-workspace/
-__pycache__/
-```
